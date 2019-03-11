@@ -1,0 +1,57 @@
+[submodule "extern/utility"]
+	path = extern/utility
+	url = ../histogram-python/.git/modules/extern/utility
+[submodule "extern/assert"]
+	path = extern/assert
+	url = ../histogram-python/.git/modules/extern/assert
+[submodule "extern/histogram"]
+	path = extern/histogram
+	url = ../histogram-python/.git/modules/extern/boosthistogram
+[submodule "extern/callable_traits"]
+	path = extern/callable_traits
+	url = ../histogram-python/.git/modules/extern/callable_traits
+[submodule "extern/config"]
+	path = extern/config
+	url = ../histogram-python/.git/modules/extern/config
+[submodule "extern/container_hash"]
+	path = extern/container_hash
+	url = ../histogram-python/.git/modules/extern/container_hash
+[submodule "extern/core"]
+	path = extern/core
+	url = ../histogram-python/.git/modules/extern/core
+[submodule "extern/detail"]
+	path = extern/detail
+	url = ../histogram-python/.git/modules/extern/detail
+[submodule "extern/integer"]
+	path = extern/integer
+	url = ../histogram-python/.git/modules/extern/integer
+[submodule "extern/iterator"]
+	path = extern/iterator
+	url = ../histogram-python/.git/modules/extern/iterator
+[submodule "extern/move"]
+	path = extern/move
+	url = ../histogram-python/.git/modules/extern/move
+[submodule "extern/mp11"]
+	path = extern/mp11
+	url = ../histogram-python/.git/modules/extern/mp11
+[submodule "extern/mpl"]
+	path = extern/mpl
+	url = ../histogram-python/.git/modules/extern/mpl
+[submodule "extern/preprocessor"]
+	path = extern/preprocessor
+	url = ../histogram-python/.git/modules/extern/preprocessor
+[submodule "extern/static_assert"]
+	path = extern/static_assert
+	url = ../histogram-python/.git/modules/extern/static_assert
+[submodule "extern/throw_exception"]
+	path = extern/throw_exception
+	url = ../histogram-python/.git/modules/extern/throw_exception
+[submodule "extern/type_index"]
+	path = extern/type_index
+	url = ../histogram-python/.git/modules/extern/type_index
+[submodule "extern/type_traits"]
+	path = extern/type_traits
+	url = ../histogram-python/.git/modules/extern/type_traits
+[submodule "extern/variant"]
+	path = extern/variant
+	url = ../histogram-python/.git/modules/extern/variant
